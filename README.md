@@ -42,4 +42,7 @@ It processes data from multiple sources, trains models, and evaluates their perf
 * Confusion matrix and visualizations.
 * Saved trained model for future use.
 
+## 📜 License
+This project is licensed under the MIT License — feel free to use, modify, and share
+
 ---
