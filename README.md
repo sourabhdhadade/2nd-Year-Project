@@ -1,4 +1,4 @@
-# Bot Detection Mini Project
+# Bot Detection (Mini Project)
 
 This project detects bots using machine learning and natural language processing techniques.
 It processes data from multiple sources, trains models, and evaluates their performance.
